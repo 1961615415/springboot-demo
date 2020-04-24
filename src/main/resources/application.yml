@@ -1,0 +1,7 @@
+server:
+  port: 8090
+student:
+  name: yml
+  age: 10
+  map: {key1:1,key1:2}
+  list: [1,2]
